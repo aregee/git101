@@ -30,11 +30,10 @@
 ### ReBoot Task List ( Max 14 hours , Min 8 hours)
 - [ ] Install Arch on VM
 - [ ] Install Arch on bare metal with BTRFS (Advance)
-- [ ] Relational Database Modeling
 - [ ] Develop Backend Serivce (NodeJS/Python) with TDD
 - [ ] Develop Frontend Single Page App with React
 - [ ] End to End automation testing with Selenium / Cypress
+- [ ] Docker Build process
 - [ ] Github CI/CD pipeline to build and deploy your Frontend/Backend on Linode/EC2 
 - [ ] Buy a domainname like (yourname.info), setup DNS etc to map the domain to your deployment
-- [ ] Docker Build process 
 
