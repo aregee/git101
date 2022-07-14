@@ -13,7 +13,7 @@
 
 ### Basic Hacking Skills
 
-- [ ] [Get one of the open-source Unixes and learn to use and run it] (https://wiki.archlinux.org/title/installation_guide)
+- [ ] [Get one of the open-source Unixes and learn to use and run it](https://wiki.archlinux.org/title/installation_guide)
 - [ ] Learn how to program
 - [ ] Learn how to use the World Wide Web and write HTML.
 - [ ] [Databases : Modeling and Theory](https://online.stanford.edu/courses/soe-ydatabases0003-databases-modeling-and-theory)
